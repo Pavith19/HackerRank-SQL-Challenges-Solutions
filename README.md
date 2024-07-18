@@ -1,9 +1,5 @@
 # HackerRank SQL Challenges Solutions
 
-![GitHub](https://img.shields.io/github/license/Pavith19/HackerRank-SQL-Challenges-Solutions?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/Pavith19/HackerRank-SQL-Challenges-Solutions?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/Pavith19/HackerRank-SQL-Challenges-Solutions?style=flat)
-![ViewCount](https://views.whatilearened.today/views/github/Pavith19/HackerRank-SQL-Challenges-Solutions.svg?cache=remove)
 
 <p align="center">  
 	<br>
