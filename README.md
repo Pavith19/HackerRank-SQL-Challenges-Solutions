@@ -24,7 +24,7 @@ This repository contains my solutions to SQL challenges from HackerRank. All sol
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
 | 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [SQL](Basic%20Select/Revising%20the%20Select%20Query%20I.sql) |
-| 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [SQL](Basic%20Select/Revising%20the%20Select%20Query%20II.sql) |
+| 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [SQL](Basic%20Select/Revising-the-select-Query-2.sql) |
 | 3 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [SQL](Basic%20Select/Select%20All.sql) |
 | 4 | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | [SQL](Basic%20Select/Select%20By%20ID.sql) |
 | 5 | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [SQL](Basic%20Select/Japanese%20Cities'%20Attributes.sql) |
