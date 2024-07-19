@@ -9,8 +9,8 @@
 
 <p align="center">  
 	<br>
-	<a href="https://www.hackerrank.com/Pavith_DB">
-        <img alt="Java" src="https://raw.githubusercontent.com/edaaydinea/HackerRank/master/Badges/java_5_star.png" width = 110 >
+	<a href="https://www.hackerrank.com/Thomas_George_T">
+        <img height=100 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg"> 
     </a>
     <br>
     <br>
