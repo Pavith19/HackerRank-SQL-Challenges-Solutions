@@ -2,7 +2,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Pavith19/HackerRank-SQL-Challenges-Solutions?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/Pavith19/HackerRank-SQL-Challenges-Solutions.svg?cache=remove)
 
-
+[![GitHub Written in](https://img.shields.io/badge/Written%20in%20-Python%2C%20Java%2C%20C%2B%2B%2C%20SQL-blue)](https://shields.io/badge/Written%20in%20-Python%2C%20Java%2C%20C%2B%2B%2C%20SQL-blue)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Pavith19/HackerRank-SQL-Challenges-Solutions)](https://github.com/Pavith19/HackerRank-SQL-Challenges-Solutions/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/Pavith19/HackerRank-SQL-Challenges-Solutions)](https://github.com/Pavith19/HackerRank-SQL-Challenges-Solutions/archive/master.zip)
 
 # HackerRank SQL Challenges Solutions
 
