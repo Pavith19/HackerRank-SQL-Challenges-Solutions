@@ -3,6 +3,7 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/Pavith19/HackerRank-SQL-Challenges-Solutions)](https://github.com/Pavith19/HackerRank-SQL-Challenges-Solutions/archive/main.zip)
 ![ViewCount](https://views.whatilearened.today/views/github/Pavith19/HackerRank-SQL-Challenges-Solutions.svg?cache=remove)
 
+
 # HackerRank SQL Challenges Solutions
 
 
