@@ -119,6 +119,9 @@ This repository contains my solutions to all the HackerRank SQL Practice Questio
 | 2 | [Draw the Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | [SQL](Alternative%20Queries/Draw%20the%20Triangle%201.sql) |
 | 3 | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem) | [SQL](Alternative%20Queries/Print%20Prime%20Numbers.sql) |
 
+## Disclaimer
+
+These solutions are my own work and were created for educational purposes on HackerRank. They may not be the most optimal solutions, but they passed HackerRank’s test cases.
 
 ## License
 
