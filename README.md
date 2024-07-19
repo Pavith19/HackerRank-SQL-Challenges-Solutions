@@ -23,6 +23,10 @@ This repository contains my solutions to all the HackerRank SQL Practice Questio
 
 [View Profile](https://www.hackerrank.com/profile/Pavith_DB)
 
+## HackerRank SQL Badge
+
+<img alt="SQL" src="https://raw.githubusercontent.com/Pavith19/HackerRank/master/Badges/sql_5_star.png" width = 100>
+
 ## Domains
 
 ### Basic Select Challenges
