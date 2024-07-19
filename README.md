@@ -17,7 +17,7 @@
 </p>
 
 ## Description
-This repository contains my solutions to SQL challenges from HackerRank. All solutions are executed in a MySQL environment.
+This repository contains my solutions to all the HackerRank SQL Practice Questions. It is organized into six folders, each containing my solutions for easy, medium, and difficult challenges executed in a MySQL environment.
 
 ## Domains
 
