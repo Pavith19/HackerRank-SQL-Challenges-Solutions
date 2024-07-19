@@ -25,7 +25,7 @@ This repository contains my solutions to all the HackerRank SQL Practice Questio
 
 ## HackerRank SQL Badge
 
-<img alt="SQL" src="https://raw.githubusercontent.com/Pavith19/HackerRank/master/Badges/sql_5_star.png" width = 100>
+<img alt="SQL" src="https://raw.githubusercontent.com/edaaydinea/HackerRank/master/Badges/sql_5_star.png" width = 100 >
 
 ## Domains
 
