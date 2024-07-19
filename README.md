@@ -46,6 +46,7 @@ This repository contains my solutions to SQL challenges from HackerRank. All sol
 | 19 | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [SQL](Basic%20Select/Employee%20Names.sql) |
 | 20 | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [SQL](Basic%20Select/Employee%20Salaries.sql) |
 
+
 ### Advanced Select Challenges
 
 | Number | Challenges | Solutions |
@@ -55,6 +56,7 @@ This repository contains my solutions to SQL challenges from HackerRank. All sol
 | 3 | [Occupations](https://www.hackerrank.com/challenges/occupations/problem) | [SQL](Advanced%20Select/Occupations.sql) |
 | 4 | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [SQL](Advanced%20Select/Binary%20Tree%20Nodes.sql) |
 | 5 | [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [SQL](Advanced%20Select/New%20Companies.sql) |
+
 
 ### Aggregation Challenges
 
@@ -78,6 +80,7 @@ This repository contains my solutions to SQL challenges from HackerRank. All sol
 | 16 | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [SQL](Aggregation/Weather%20Observation%20Station%2019.sql) |
 | 17 | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [SQL](Aggregation/Weather%20Observation%20Station%2020.sql) |
 
+
 ### Basic Join
 
 | Number | Challenges | Solutions |
@@ -91,12 +94,23 @@ This repository contains my solutions to SQL challenges from HackerRank. All sol
 | 7 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [SQL](Basic%20Join/Challenges.sql) |
 | 8 | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [SQL](Basic%20Join/Contest%20Leaderboard.sql) |
 
+
 ### Advanced Join
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
 | 1 | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [SQL](Advanced%20Join/SQL%20Project%20Planning.sql) |
 | 2 | [Placements](https://www.hackerrank.com/challenges/placements/problem) | [SQL](Advanced%20Join/Placements.sql) |
+
+
+### Alternative Queries
+
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
+| 1 | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | [SQL](Alternative%20Queries/Draw%20The%20Triangle%202.sql) |
+| 2 | [Draw the Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | [SQL](Alternative%20Queries/Draw%20the%20Triangle%201.sql) |
+| 3 | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem) | [SQL](Alternative%20Queries/Print%20Prime%20Numbers.sql) |
+
 
 ## License
 This repository is licensed under MIT License - see [License](LICENSE.md) for more details
