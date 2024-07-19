@@ -1,11 +1,7 @@
-![GitHub top language](https://img.shields.io/github/languages/top/Pavith19/HackerRank-SQL-Challenges-Solutions?style=flat&label=SQL)
-![GitHub last commit](https://img.shields.io/github/last-commit/Pavith19/HackerRank-SQL-Challenges-Solutions?style=flat)
-![ViewCount](https://views.whatilearened.today/views/github/Pavith19/HackerRank-SQL-Challenges-Solutions.svg?cache=remove)
-
+[![GitHub Written in](https://img.shields.io/badge/Written%20in-SQL-blue)](https://img.shields.io/badge/Written%20in-SQL-blue)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Pavith19/HackerRank-SQL-Challenges-Solutions)](https://github.com/Pavith19/HackerRank-SQL-Challenges-Solutions/commits/main)
 [![GitHub repo size](https://img.shields.io/github/repo-size/Pavith19/HackerRank-SQL-Challenges-Solutions)](https://github.com/Pavith19/HackerRank-SQL-Challenges-Solutions/archive/main.zip)
-[![GitHub License](https://img.shields.io/github/license/Pavith19/HackerRank-SQL-Challenges-Solutions)](https://github.com/Pavith19/HackerRank-SQL-Challenges-Solutions/blob/main/LICENSE)
-[![GitHub Written in](https://img.shields.io/badge/Written%20in-SQL-blue)](https://img.shields.io/badge/Written%20in-SQL-blue)
+![ViewCount](https://views.whatilearened.today/views/github/Pavith19/HackerRank-SQL-Challenges-Solutions.svg?cache=remove)
 
 # HackerRank SQL Challenges Solutions
 
