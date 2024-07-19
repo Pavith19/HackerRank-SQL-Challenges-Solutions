@@ -9,7 +9,7 @@
 
 <p align="center">  
 	<br>
-	<a href="https://www.hackerrank.com/Thomas_George_T">
+	<a href="https://www.hackerrank.com/profile/Pavith_DB">
         <img height=100 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg"> 
     </a>
     <br>
@@ -25,7 +25,8 @@ This repository contains my solutions to all the HackerRank SQL Practice Questio
 
 ## HackerRank SQL Badge
 
-<img alt="SQL" src="https://raw.githubusercontent.com/edaaydinea/HackerRank/master/Badges/sql_5_star.png" width = 100 >
+<a href="https://www.hackerrank.com/profile/Pavith_DB">
+<img alt="SQL" src="https://raw.githubusercontent.com/edaaydinea/HackerRank/master/Badges/sql_5_star.png" width = 100 ></a>
 
 ## Domains
 
