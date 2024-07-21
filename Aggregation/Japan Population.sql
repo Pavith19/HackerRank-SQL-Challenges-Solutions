@@ -12,5 +12,10 @@
 
 Query the sum of the populations for all Japanese cities in CITY. The COUNTRYCODE for Japan is JPN. */
 
+/* *
+* Author: Pavith Bambaravanage
+* URL: https://github.com/Pavith19
+* */
+
 SELECT SUM(POPULATION) FROM CITY
 WHERE COUNTRYCODE ='JPN'
