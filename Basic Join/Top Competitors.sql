@@ -4,6 +4,11 @@ Write a query to print the respective hacker_id and name of hackers who achieved
 Order your output in descending order by the total number of challenges in which the hacker earned a full score. 
 If more than one hacker received full scores in same number of challenges, then sort them by ascending hacker_id. */
 
+-- 
+-- Author: Pavith Bambaravanage
+-- URL: https://github.com/Pavith19
+-- 
+
 SELECT h.hacker_id, h.name
 FROM submissions s
 INNER JOIN challenges c ON s.challenge_id = c.challenge_id
