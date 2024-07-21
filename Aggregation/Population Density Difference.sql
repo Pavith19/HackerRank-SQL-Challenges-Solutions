@@ -12,10 +12,10 @@
 
 Query the difference between the maximum and minimum populations in CITY. */
 
-/* *
-* Author: Pavith Bambaravanage
-* URL: https://github.com/Pavith19
-* */
+-- 
+-- Author: Pavith Bambaravanage
+-- URL: https://github.com/Pavith19
+-- 
 
 SELECT MAX(POPULATION) - MIN(POPULATION)
 FROM CITY
