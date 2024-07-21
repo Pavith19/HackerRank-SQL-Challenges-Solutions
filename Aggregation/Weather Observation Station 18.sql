@@ -19,5 +19,10 @@ d happens to equal the maximum value in Western Longitude (LONG_W in STATION).
 
 Query the Manhattan Distance between points P1 and P2 and round it to a scale of 4 decimal places. */
 
+-- 
+-- Author: Pavith Bambaravanage
+-- URL: https://github.com/Pavith19
+-- 
+
 SELECT ROUND(ABS(MIN(LAT_N) - MAX(LAT_N)) + ABS(MIN(LONG_W) - MAX(LONG_W)), 4)
 FROM STATION;
