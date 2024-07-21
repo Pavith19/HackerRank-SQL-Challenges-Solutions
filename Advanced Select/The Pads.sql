@@ -8,6 +8,11 @@ There are a total of [occupation_count] [occupation]s.
 where [occupation_count] is the number of occurrences of an occupation in OCCUPATIONS and [occupation] is the lowercase occupation name. 
 If more than one Occupation has the same [occupation_count], they should be ordered alphabetically. */
 
+-- 
+-- Author: Pavith Bambaravanage
+-- URL: https://github.com/Pavith19
+-- 
+
 SELECT CONCAT(Name, '(', LEFT(Occupation, 1) , ')')
 FROM Occupations ORDER BY Name;
 
