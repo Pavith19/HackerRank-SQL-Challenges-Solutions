@@ -3,6 +3,11 @@ Write a query to print the contest_id, hacker_id, name, and the sums of total_su
 total_accepted_submissions, total_views, and total_unique_views for each contest sorted by contest_id. 
 Exclude the contest from the result if all four sums are 0. */
 
+-- 
+-- Author: Pavith Bambaravanage
+-- URL: https://github.com/Pavith19
+-- 
+
 SELECT con.contest_id, con.hacker_id, con.name, 
 SUM(sg.total_submissions), SUM(sg.total_accepted_submissions), 
 SUM(vg.total_views), SUM(vg.total_unique_views)
