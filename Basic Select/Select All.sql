@@ -11,4 +11,9 @@
 +-------------+----------+
 Query all columns (attributes) for every row in the CITY table.*/
 
+-- 
+-- Author: Pavith Bambaravanage
+-- URL: https://github.com/Pavith19
+-- 
+
 SELECT * FROM CITY;
