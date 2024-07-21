@@ -13,8 +13,12 @@ The STATION table is described as follows:
 +-------------+------------+
 
 where LAT_N is the northern latitude and LONG_W is the western longitude.
-
 */
+
+-- 
+-- Author: Pavith Bambaravanage
+-- URL: https://github.com/Pavith19
+-- 
 
 SELECT DISTINCT CITY
 FROM STATION
