@@ -1,6 +1,11 @@
 /* Write a query to print all prime numbers less than or equal to 1000. 
 Print your result on a single line, and use the ampersand (&) character as your separator (instead of a space). */
 
+-- 
+-- Author: Pavith Bambaravanage
+-- URL: https://github.com/Pavith19
+-- 
+
 SELECT GROUP_CONCAT(NUMB SEPARATOR '&')
 FROM (
     SELECT @num:=@num+1 as NUMB FROM
