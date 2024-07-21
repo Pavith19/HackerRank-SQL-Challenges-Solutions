@@ -7,6 +7,11 @@ If there is more than one student with the same grade (1-7) assigned to them, or
 
 Write a query to help Eve. */
 
+-- 
+-- Author: Pavith Bambaravanage
+-- URL: https://github.com/Pavith19
+-- 
+
 SELECT ID, Name, Marks, Grade 
 FROM Students AS s 
 JOIN Grades AS g ON s.Marks 
