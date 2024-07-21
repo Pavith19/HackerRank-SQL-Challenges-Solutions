@@ -1,6 +1,11 @@
 /* Two pairs (X1, Y1) and (X2, Y2) are said to be symmetric pairs if X1 = Y2 and X2 = Y1.
 Write a query to output all such symmetric pairs in ascending order by the value of X. */
 
+-- 
+-- Author: Pavith Bambaravanage
+-- URL: https://github.com/Pavith19
+-- 
+
 SELECT distinct f1.x, f1.y FROM 
   (SELECT x, y, rownum r FROM functions) f1, 
   (SELECT x, y, rownum r FROM functions) f2
