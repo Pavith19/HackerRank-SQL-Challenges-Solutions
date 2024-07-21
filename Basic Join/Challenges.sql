@@ -5,6 +5,11 @@ If more than one student created the same number of challenges, then sort the re
 If more than one student created the same number of challenges and the count is less than the maximum number of challenges created, 
 then exclude those students from the result. */
 
+-- 
+-- Author: Pavith Bambaravanage
+-- URL: https://github.com/Pavith19
+-- 
+
 SELECT c.hacker_id, h.name, COUNT(c.challenge_id) AS cnt 
 FROM Hackers AS h JOIN Challenges AS c ON h.hacker_id = c.hacker_id
 GROUP BY c.hacker_id, h.name HAVING
