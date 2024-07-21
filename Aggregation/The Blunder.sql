@@ -4,5 +4,10 @@ She wants your help finding the difference between her miscalculation (using sal
 
 Write a query calculating the amount of error (i.e.:  average monthly salaries), and round it up to the next integer. */
 
+-- 
+-- Author: Pavith Bambaravanage
+-- URL: https://github.com/Pavith19
+-- 
+
 SELECT CEIL(AVG(Salary)-AVG(REPLACE(Salary,'0','')))
 FROM  EMPLOYEES
