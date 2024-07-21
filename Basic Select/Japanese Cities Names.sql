@@ -12,5 +12,10 @@
 
 Query the names of all the Japanese cities in the CITY table. The COUNTRYCODE for Japan is JPN.*/
 
+-- 
+-- Author: Pavith Bambaravanage
+-- URL: https://github.com/Pavith19
+-- 
+
 SELECT NAME FROM CITY 
   WHERE COUNTRYCODE = 'JPN';
