@@ -5,6 +5,11 @@ Isosceles: It's a triangle with  sides of equal length.
 Scalene: It's a triangle with  sides of differing lengths.
 Not A Triangle: The given values of A, B, and C don't form a triangle. */
 
+-- 
+-- Author: Pavith Bambaravanage
+-- URL: https://github.com/Pavith19
+-- 
+
 SELECT
   CASE 
     WHEN A + B <= C or A + C <= B or B + C <= A THEN 'Not A Triangle'
