@@ -12,10 +12,10 @@
 
 Query the total population of all cities in CITY where District is California. */
 
-/* *
-* Author: Pavith Bambaravanage
-* URL: https://github.com/Pavith19
-* */
+-- 
+-- Author: Pavith Bambaravanage
+-- URL: https://github.com/Pavith19
+-- 
 
 SELECT SUM(POPULATION) FROM CITY 
 WHERE DISTRICT = 'California';
