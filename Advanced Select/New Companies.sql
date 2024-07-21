@@ -2,6 +2,11 @@
 total number of senior managers, total number of managers, and total number of employees. 
 Order your output by ascending company_code. */
 
+-- 
+-- Author: Pavith Bambaravanage
+-- URL: https://github.com/Pavith19
+-- 
+
 SELECT c.company_code, c.founder, 
 COUNT(DISTINCT l.lead_manager_code), COUNT(DISTINCT s.senior_manager_code),
 COUNT(DISTINCT m.manager_code), COUNT(DISTINCT e.employee_code)
