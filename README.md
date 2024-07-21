@@ -1,3 +1,8 @@
+<!--
+-- Author: Pavith Bambaravanage
+-- URL: https://github.com/Pavith19
+-->
+
 [![GitHub Written in](https://img.shields.io/badge/Written%20in-SQL-blue)](https://img.shields.io/badge/Written%20in-SQL-blue)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Pavith19/HackerRank-SQL-Challenges-Solutions)](https://github.com/Pavith19/HackerRank-SQL-Challenges-Solutions/commits/main)
 [![GitHub repo size](https://img.shields.io/github/repo-size/Pavith19/HackerRank-SQL-Challenges-Solutions)](https://github.com/Pavith19/HackerRank-SQL-Challenges-Solutions/archive/main.zip)
