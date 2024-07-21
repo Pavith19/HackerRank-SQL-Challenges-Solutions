@@ -12,5 +12,10 @@
 
 Query a list of CITY and STATE from the STATION table. */
 
+-- 
+-- Author: Pavith Bambaravanage
+-- URL: https://github.com/Pavith19
+-- 
+
 SELECT CITY, STATE 
   FROM STATION;
