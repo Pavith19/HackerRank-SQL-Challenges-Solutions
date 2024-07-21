@@ -13,6 +13,11 @@ We define an employee's total earnings to be their monthly  worked, and the maxi
 Write a query to find the maximum total earnings for all employees as well as the total number of employees who have maximum total earnings. 
 Then print these values as  space-separated integers. */
 
+-- 
+-- Author: Pavith Bambaravanage
+-- URL: https://github.com/Pavith19
+-- 
+
 SELECT MONTHS*SALARY AS earnings, COUNT(*) FROM employee
 GROUP BY earnings 
 ORDER BY earnings DESC
