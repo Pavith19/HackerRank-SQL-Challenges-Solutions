@@ -5,6 +5,11 @@ Write a query to print the hacker_id, name, and total score of the hackers order
 If more than one hacker achieved the same total score, then sort the result by ascending hacker_id. 
 Exclude all hackers with a total score of 0 from your result. */
 
+-- 
+-- Author: Pavith Bambaravanage
+-- URL: https://github.com/Pavith19
+-- 
+
 select * from 
 (select hackers.hacker_id, name, sum(subs.maxscore) as totalscore from hackers INNER JOIN 
 (select hacker_id, challenge_id, max(score) as maxscore from submissions
