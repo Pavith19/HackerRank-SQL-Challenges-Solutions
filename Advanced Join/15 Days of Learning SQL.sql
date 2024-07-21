@@ -5,6 +5,11 @@ and find the hacker_id and name of the hacker who made maximum number of submiss
 If more than one such hacker has a maximum number of submissions, print the lowest hacker_id. 
 The query should print this information for each day of the contest, sorted by the date. */
 
+-- 
+-- Author: Pavith Bambaravanage
+-- URL: https://github.com/Pavith19
+-- 
+
 SELECT SUBMISSION_DATE,
 (SELECT COUNT(DISTINCT HACKER_ID)  
 FROM SUBMISSIONS S2  
