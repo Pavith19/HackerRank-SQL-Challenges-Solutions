@@ -7,6 +7,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/Pavith19/HackerRank-SQL-Challenges-Solutions)](https://github.com/Pavith19/HackerRank-SQL-Challenges-Solutions/commits/main)
 [![GitHub repo size](https://img.shields.io/github/repo-size/Pavith19/HackerRank-SQL-Challenges-Solutions)](https://github.com/Pavith19/HackerRank-SQL-Challenges-Solutions/archive/main.zip)
 ![ViewCount](https://views.whatilearened.today/views/github/Pavith19/HackerRank-SQL-Challenges-Solutions.svg?cache=remove)
+[!["Buy Me A Coffee"](https://img.shields.io/badge/-Buy_Me_a%C2%A0Coffee-gray?logo=buy-me-a-coffee)](https://buymeacoffee.com/pavith_db)
 
 
 # HackerRank SQL Challenges Solutions
