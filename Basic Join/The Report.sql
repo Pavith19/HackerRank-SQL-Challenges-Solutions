@@ -12,7 +12,19 @@ Write a query to help Eve. */
 -- URL: https://github.com/Pavith19
 -- 
 
-SELECT ID, Name, Marks, Grade 
-FROM Students AS s 
-JOIN Grades AS g ON s.Marks 
-BETWEEN g.Min_Mark AND g.Max_Mark;
+SELECT 
+    CASE 
+        WHEN g.grade < 8 THEN 'NULL'
+        ELSE s.name
+    END AS name,
+    g.grade,
+    s.marks
+FROM students s
+JOIN grades g
+    ON s.marks BETWEEN g.min_mark AND g.max_mark
+ORDER BY 
+    g.grade DESC,
+    CASE 
+        WHEN g.grade < 8 THEN s.marks
+        ELSE s.name
+    END ASC;
